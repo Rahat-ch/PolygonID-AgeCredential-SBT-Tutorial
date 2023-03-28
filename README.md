@@ -1,3 +1,5 @@
+# Please note that this Tutorial may now be outdated refer to official Polygon ID Documentation for implementation
+
 # Implement an ERC20 zk airdrop in 20 minutes with Polygon ID
 
 Tutorial: https://0xpolygonid.github.io/tutorials/verifier/on-chain-verification/overview/
